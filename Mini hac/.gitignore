@@ -1,0 +1,14 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[V]R/
+/[A]rchives/
+/[L]ogs/
+/[U]ser[S]ettings/
+.vs/
+.gradle/
+ExportedObj/
+.plastic/
