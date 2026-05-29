@@ -4,11 +4,19 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Mm]emoryCaptures/
-/[V]R/
-/[A]rchives/
-/[L]ogs/
-/[U]ser[S]ettings/
+/[Vv]R/
+/[Aa]rchives/
+# ⬇️ここから下を追加・上書きすることで強力にゴミを弾きます
+/[尝濒]ogs/
+/Logs/
+/UserSettings/
+/[鲍耻]ser[厂蝉]ettings/
 .vs/
 .gradle/
 ExportedObj/
 .plastic/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
